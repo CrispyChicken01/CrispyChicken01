@@ -3,8 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=spot-nabil&color=green)
 
 
-Computer enthusiast
-Learning programming
+Computer enthusiast--Learning programming
 
 ## My goals
 - [ ] Python
