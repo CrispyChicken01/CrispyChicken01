@@ -18,4 +18,4 @@ Computer enthusiast--Learning programming
 * [Twitter](https://twitter.com/@NoBillTech)
 
 ## My Stats
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=spot-nabil&show_icons=true&theme=radical)
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=crispychicken01&show_icons=true&theme=radical)
