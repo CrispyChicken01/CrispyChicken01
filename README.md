@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=spot-nabil&color=green)
 
 
-Computer enthusiast--Learning programming
+Computer enthusiast || Learning programming
 
 ## My goals
 - [ ] Python
@@ -18,4 +18,5 @@ Computer enthusiast--Learning programming
 * [Twitter](https://twitter.com/@NoBillTech)
 
 ## My Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=crispychicken01&show_icons=true&theme=radical)
