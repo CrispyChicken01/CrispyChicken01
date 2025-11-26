@@ -5,7 +5,7 @@
 
 Computer enthusiast || Learning programming
 
-## My goals
+## Languages
 - [ ] Python
 - [ ] HTML
 - [ ] CSS
