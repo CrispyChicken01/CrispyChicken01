@@ -13,8 +13,8 @@ Computer enthusiast || Learning programming
 
 
 ## Reach me
-* Discord - 
-* [Reddit](https://www.reddit.com/user/patrick-nabil)
+* Discord: nobill 
+* [Reddit]
 * [Twitter](https://twitter.com/@NoBillTech)
 
 ## My Stats
