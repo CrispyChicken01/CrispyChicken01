@@ -1,6 +1,6 @@
 # Intruduction
 
-![](https://komarev.com/ghpvc/?username=spot-nabil&color=green)
+![](https://komarev.com/ghpvc/?username=CrispyChicken01&color=green)
 
 
 Computer enthusiast || Learning programming
