@@ -6,7 +6,7 @@
 Computer enthusiast || Learning programming
 
 ## Languages
-- [ ] Python
+- [x] Python
 - [ ] HTML
 - [ ] CSS
 - [ ] Javascipt
@@ -15,7 +15,7 @@ Computer enthusiast || Learning programming
 ## Reach me
 * Discord: nobill 
 * [Reddit]
-* [Twitter](https://twitter.com/@NoBillTech)
+* [X](https://x.com/@NoBillTech)
 
 ## My Stats
 
