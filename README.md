@@ -14,7 +14,7 @@ Computer enthusiast || Learning programming
 
 ## Reach me
 * Discord: nobill 
-* [Reddit]
+* [Reddit](old.reddit.com)
 * [X](https://x.com/@NoBillTech)
 
 ## My Stats
